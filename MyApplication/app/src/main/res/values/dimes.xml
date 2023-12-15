@@ -1,0 +1,7 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="nav_header_padding">16dp</dimen>
+    <!-- Use your desired dimension -->
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="nav_header_margin">16dp</dimen>
+</resources>

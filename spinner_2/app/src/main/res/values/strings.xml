@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="spinner_options">
+        <item>BTECH CSE</item>
+        <item>MCA</item>
+        <item>MTECH</item>
+        <item>MBA</item>
+        <item>BCA</item>
+        <item>BTECH EEE</item>
+    </string-array>
+</resources>
